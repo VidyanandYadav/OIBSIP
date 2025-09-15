@@ -1,12 +1,8 @@
 # 🌟 Oasis Infobyte Data Science Internship Projects  
-
-![Banner](https://via.placeholder.com/1000x250.png?text=Oasis+Infobyte+Data+Science+Internship+Projects)  
-
 This repository contains my projects completed during the **Data Science Internship at Oasis Infobyte**.  
 Each task applies **Python, Data Science, and Machine Learning** to solve real-world problems.  
 
 ---
-
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3.8-blue)  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)  
